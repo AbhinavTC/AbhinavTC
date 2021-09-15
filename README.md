@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AbhinavTC
 - 👀 I’m interested in ...Webdevelopment
-- 🌱 I’m currently learning ...Python and its frameworks and ui/ux desgining
+- 🌱 I’m currently learning ...Python and its frameworks ,
+-     ui/ux desgining using adobe xd & figam
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
